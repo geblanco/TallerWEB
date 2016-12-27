@@ -1,3 +1,5 @@
+![Appstorming](https://raw.githubusercontent.com/m0n0l0c0/TallerWeb/master/app_storming.jpg AppStorming Logo)
+
 # Contenido
 
 * [¿Qué es esto?](#queesto)
@@ -9,13 +11,13 @@
 
 ### ¿Qué es esto?
 
-Es un taller sobre las últimas tecnologías utilizadas para el desarrollo de aplicaciones web y escritorio, basado en HTML 5, CSS 3, JavaScript (web), [NodeJS](https://nodejs.org/) y [Electron](http://electron.atom.io/).
+Es un taller sobre las últimas tecnologías utilizadas para el desarrollo de aplicaciones web y escritorio, basado en HTML5, CSS3, JavaScript (web), [NodeJS](https://nodejs.org/) y [Electron](http://electron.atom.io/).
 
 ### ¿En qué consiste?
 
 Será un taller intensivo de unas 20 horas, repartidas en 10 días, 2 horas al día.
 
-Se impartirá en la facultad de Sistemas Informáticos de la UPM, en el campus sur([etsisi](http://www.etsisi.upm.es/)).
+Se impartirá en la Escuela Técnica Superior de Ingeniería de Sistemas Informáticos de la UPM, en el Campus Sur([ETSISI](http://www.etsisi.upm.es/)).
 
 ### ¿Qué se va a impartir?
 
@@ -25,7 +27,7 @@ Este es el roadmap:
 * Principios de Electron (Arquitectura, APIs, buenas prácticas) impartido por [Guillermo Echegoyen](https://www.linkedin.com/in/guillermo-blanco-354a6a51).
 * Aplicación práctica con Electron (sujeto a tiempos, depende de como avancen los talleres).
 
-Este roadmap esta sujeto a cómo avancen los talleres y los alumnos que asistan.
+Este roadmap esta sujeto a cambios según avancen los talleres y los alumnos que asistan.
 
 ### Requisitos
 
