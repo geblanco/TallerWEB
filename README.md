@@ -1,4 +1,4 @@
-![Appstorming](https://raw.githubusercontent.com/m0n0l0c0/TallerWeb/master/app_storming.jpg AppStorming Logo)
+![Appstorming](https://raw.githubusercontent.com/m0n0l0c0/TallerWeb/master/img/app_storming.jpg "AppStorming Logo")
 
 # Contenido
 
