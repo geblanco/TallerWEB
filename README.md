@@ -7,7 +7,8 @@
 * [¿Qué se va a impartir?](#queseimparte)
 * [Requisitos](#requisitos)
 * [Cómo apuntarse](#apuntarse)
-* [Notas](#notas)
+* [Calendario](#calendario)
+* [Noticias](#noticias)
 
 ### ¿Qué es esto?
 
@@ -58,3 +59,10 @@ Rellena este [formulario](https://goo.gl/forms/HK5fgJuLTMNtjIMH2) para apuntarte
 El taller empieza el lunes 23 de Enero y finaliza el 3 de Febrero.
 
 Si no se cubre un mínimo de asistencia se cancelará el taller, además, el máximo de alumnos serán los que quepan en un aula del CIC, que es donde se impartirá.
+
+### Noticias
+
+Ya tenemos horario!!
+
+La primera semana se impartirá en horario de comida, de 14:00 a 16:00.
+La segunda semana está por ver, depende de lo que nos venga bien a todos, pero se está  pensando en moverlo a más tarde (18:00-20:00)
