@@ -40,7 +40,7 @@ Se espera que los asistentes tengan conocimientos mínimos de HTML y CSS ya que,
 
 Aunque será un taller mayoritariamente práctico, se verán muchos conceptos y no dará tiempo a hacer una parte práctica para todos ellos; por tanto, se espera que los asistentes tengan ganas de participar, trabajar y repasar dichos conceptos en casa, con algunas tareas que se vayan asignando.
 
-Ha costado mucho esfuerzo planificar, organizar y preparar este taller, se espera compromiso con la asistencia, si no vas a venir al menos a un 80% del taller, no te apuntes.
+Agradeceríamos que fuerais honestos con vuestra asistencia, nos ha costado mucho esfuerzo planificar, organizar y preparar este taller, de forma que por favor, si vas a apuntarte se espera que asistas a un mínimo del 80% de las clases.
 
 ##### ¿Qué podéis esperar de nosotros?
 
