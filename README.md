@@ -64,5 +64,5 @@ Si no se cubre un mínimo de asistencia se cancelará el taller, además, el má
 
 Ya tenemos horario!!
 
-La primera semana se impartirá en horario de comida, de 14:00 a 16:00.
+La primera semana se impartirá en horario de comida, de 13:00 a 15:00.
 La segunda semana está por ver, depende de lo que nos venga bien a todos, pero se está  pensando en moverlo a más tarde (18:00-20:00)
