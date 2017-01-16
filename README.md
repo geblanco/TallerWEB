@@ -1,5 +1,7 @@
 ![Appstorming](https://raw.githubusercontent.com/m0n0l0c0/TallerWeb/master/img/app_storming.jpg "AppStorming Logo")
 
+## El aforo está completo, al apuntarte pasas a la lista de espera.
+
 # Contenido
 
 * [¿Qué es esto?](#queesto)
@@ -61,6 +63,8 @@ El taller empieza el lunes 23 de Enero y finaliza el 3 de Febrero.
 Si no se cubre un mínimo de asistencia se cancelará el taller, además, el máximo de alumnos serán los que quepan en un aula del CIC, que es donde se impartirá.
 
 ### Noticias
+
+Se impartirá en el aula 3 del CIC, Campus Sur, UPM.
 
 Ya tenemos horario!!
 
