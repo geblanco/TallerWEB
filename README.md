@@ -1,6 +1,6 @@
 ![Appstorming](https://raw.githubusercontent.com/m0n0l0c0/TallerWeb/master/img/app_storming.jpg "AppStorming Logo")
 
-## El aforo está completo, al apuntarte pasas a la lista de espera.
+## El aforo está completo :(
 
 # Contenido
 
@@ -53,7 +53,7 @@ Por supuesto y más importante que aprendáis y os divirtais mucho!
 
 ### Cómo apuntarse
 
-Rellena este [formulario](https://goo.gl/forms/HK5fgJuLTMNtjIMH2) para apuntarte, una vez hecho contaremos con tu asistencia!. Se os pedirá el email, así que poner uno que useis con frecuencia, será la vía de comunicación oficial con todos los detalles.
+Rellena este ~~[formulario](https://goo.gl/forms/HK5fgJuLTMNtjIMH2)~~ (aforo completo)  para apuntarte, una vez hecho contaremos con tu asistencia!. Se os pedirá el email, así que poner uno que useis con frecuencia, será la vía de comunicación oficial con todos los detalles.
 
 
 ### Calendario
