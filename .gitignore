@@ -1,3 +1,5 @@
 # Todas las imagenes que no esten en img
-
 ignore/*
+**/*.png
+
+**/node_modules

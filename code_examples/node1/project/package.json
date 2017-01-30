@@ -1,0 +1,14 @@
+{
+  "name": "Game-Lib",
+  "version": "0.1.0",
+  "author": "Guillermo Blanco",
+  "main": "./index.js",
+  "license": "MIT",
+  "homepage": "https://github.com/m0n0l0c0/Game-Lib#readme",
+  "bugs": {
+    "url": "https://github.com/m0n0l0c0/Game-Lib/issues"
+  },
+  "dependencies": {
+    "Game-Renderer": "^1.1.0"
+  }
+}
