@@ -1,0 +1,6 @@
+[{"type":"directory","name": ".","contents":[
+    {"type":"file","name":"main.js"},
+    {"type":"file","name":"package.json"},
+    {"type":"file","name":"tree.json"}
+  ]}
+]
