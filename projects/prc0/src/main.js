@@ -86,7 +86,9 @@ console.log('Read file from:', path.resolve(args[2]))
 console.log(JSON.stringify(tree, null, 2), '\n\n=> OK')
 console.log('Recreating directories...')
 
-tree.forEach(function(fd){
+var exitCode = 0
+for(var i = 0; i < tree.length && !exitCode; i++){
+  var fd = tree[ i ]
   if( fd.name === '.' ){
     // Directory from where the tree was taken
     fd.name = 'root_dir'
@@ -94,9 +96,10 @@ tree.forEach(function(fd){
   var newPath = path.join(basePath, fd.name)
   if( createDirectory( newPath ) ){
     console.log('Unable to create root directory')
-    process.exit( 258 )
+    exitCode = 258
+  }else{
+    exitCode = createDirContents( newPath, fd.contents ) || 0
   }
-  var exitCode = createDirContents( newPath, fd.contents ) || 0
-  console.log('Ended with', exitCode, 'exit code')
-  process.exit( exitCode )
-})
+}
+console.log('Ended with exit code', exitCode)
+process.exit( exitCode )
