@@ -25,7 +25,7 @@ Los iconos necesarios y toda su configuración se proporciona como material.
 Se estima que la duración de la práctica es de 1:30 horas.
 
 ### Material proporcionado
-Es necesario que ejecutes el script de [configuración](scripts/setupElectronPrc.sh) (en la carpeta scripts, hay que darle permisos con ```chmod 755 <script.sh>```) en la raíz del proyecto. Este script añade las librerías y parámetros necesarios para el correcto funcionamiento de la librería canvas, tanto en tu sistema como en tu fichero ```package.json```, de forma que es necesario que crees primero la base del proyecto.  
+Es necesario que ejecutes el script de [configuración](https://github.com/m0n0l0c0/TallerWEB/blob/master/scripts/setupElectronPrc.sh)  (en la carpeta scripts, hay que darle permisos con ```chmod 755 <script.sh>```) en la raíz del proyecto. Este script añade las librerías y parámetros necesarios para el correcto funcionamiento de la librería canvas, tanto en tu sistema como en tu fichero ```package.json```, de forma que es necesario que crees primero la base del proyecto.  
 Uno de los ficheros proporcionados es el fichero ```iconGenerator.js``` que genera todos los iconos necesarios para mostrar en el menú. Este es el método que se debe utilizar:
 ``` 
 var timerIcon = require('./iconGenerator')
