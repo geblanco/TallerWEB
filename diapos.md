@@ -11,3 +11,6 @@ https://docs.google.com/presentation/d/1GThG2_jF6rzsPbG1e3YV9gv-l1Vfb4dKhX705J_b
 ## Electron - Dia 1
 
 https://drive.google.com/open?id=11bSWZ2rtjRUwUccXgwJqSb6BlKN4OY_IEs3oYso0tX8
+
+## Electron - Dia 2
+https://docs.google.com/presentation/d/1Gqqv3lS7JJWIMASsjKuF6VHHkcGsPocmQcZlaTQRJn0/edit?usp=sharing
