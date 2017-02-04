@@ -1,0 +1,13 @@
+<% if( typeof files === 'undefined' ){ %>
+	<p>Nothing to look here</p>
+<% }else{ %>
+	<ul>
+		<% for(var file of files){ %>
+			<li>
+				<a href='<%= file.path %>'>
+	          <%= file.name %>
+	      </a>
+			</li>		
+		<% } %>
+	</ul>
+<% } %>
